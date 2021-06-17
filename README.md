@@ -1,2 +1,2 @@
-# django-stock-utils
- django stock utils
+# django-stock
+ django stock

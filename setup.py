@@ -9,7 +9,7 @@ import os
 import setuptools
 
 setuptools.setup(
-    name='stock_algorithms',
-    version='1.0.1',
+    name='django_stock',
+    version='1.0.2',
     packages=setuptools.find_packages()
 )
